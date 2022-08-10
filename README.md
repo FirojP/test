@@ -1,1 +1,2 @@
-THIS IS REDME.md FILE
+THIS IS REDME.md FILE 
+after clone
